@@ -2,4 +2,3 @@
 Resource pack to force no block rotations for every block, thereby preventing coordinate exploits based on block rotation. Currently compatible with Minecraft Java Edition 1.21.8-1.21.10
 =======
 Resets all block rotations so that every single block uses the same rotation, thus preventing coordinate exploits
->>>>>>> 8653d5979d6b9f04d3293273916ead80b3bcc0aa
